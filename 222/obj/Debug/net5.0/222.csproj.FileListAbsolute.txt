@@ -1,0 +1,16 @@
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\bin\Debug\net5.0\222.exe
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\bin\Debug\net5.0\222.deps.json
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\bin\Debug\net5.0\222.runtimeconfig.json
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\bin\Debug\net5.0\222.runtimeconfig.dev.json
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\bin\Debug\net5.0\222.dll
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\bin\Debug\net5.0\ref\222.dll
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\bin\Debug\net5.0\222.pdb
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.csproj.AssemblyReference.cache
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.AssemblyInfoInputs.cache
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.AssemblyInfo.cs
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.csproj.CoreCompileInputs.cache
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.dll
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\ref\222.dll
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.pdb
+C:\Users\Black Star\Desktop\dil\19.08.2021\19.08.2021\222\obj\Debug\net5.0\222.genruntimeconfig.cache
